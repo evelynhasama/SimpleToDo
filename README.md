@@ -18,23 +18,24 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-* [ ] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
+* [x] User can **tap a todo item in the list and bring up an edit screen for the todo item** and then have any changes to the text reflected back in the todo list
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] n/a
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/evelynhasama/SimpleToDo/blob/master/gifwalkthrough/mytodo_walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- The main challenge I encountered was my computer's speed and processing. Android studio would drain the Mac's battery and slow down the computer creating constant lagging, especially on the emulator. By testing and recording the app on my Pixel device, I was able to create a gif of the app.
+- The gif size came out too large, but the settings I ended up using on Kap were size: 200|413 and 10fps.
 
 ## License
 
